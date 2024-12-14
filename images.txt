@@ -3,4 +3,3 @@ ghcr.io/zelenin/tdlib-docker:22d49d5-alpine
 ingestion:1.4.3
 server:1.4.3
 elasticsearch:8.10.2
-db:1.4.3
